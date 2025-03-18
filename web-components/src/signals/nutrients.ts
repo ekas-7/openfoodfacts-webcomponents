@@ -11,6 +11,9 @@ export const insightById = new SignalMap<Insight>({})
 /**
  * Nutrients insights id by product code
  */
+
+
+fosdjkfhjsdjf) for test in TS Lint on workflow 
 export const insightIdByProductCode = new SignalMap<string | null>({})
 
 /**
